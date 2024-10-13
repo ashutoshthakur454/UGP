@@ -87,12 +87,12 @@ DFO source contains complete information about Severity, Area affected , Human f
 
 ![image](https://github.com/user-attachments/assets/3518d961-6f7a-4462-b8ae-6678be9faa78)
 
-Predicted Human Fatality after feature selection, using Artificial Neural Networks. 
+Predicted Human Fatality with R² 0.55 after feature selection, using Artificial Neural Networks. 
 
 
 ![image](https://github.com/user-attachments/assets/07707cbf-570d-40a3-8b0f-39846aaf0838) ![image](https://github.com/user-attachments/assets/84001c88-ce3a-4be3-a06d-13f46dbdd475)
 
-Now estimating humans displaced. Used KNNimputer to fill in the missing values. Achieved r2 score of 0.58 using Linear Regression.<br>
+Now estimating humans displaced. Used KNNimputer to fill in the missing values. Achieved R² score of 0.58 using Linear Regression.<br>
 
 We plotted various heat maps to visually show how the impact of floods were spread across the state of Assam and its nearby region.
 
